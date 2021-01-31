@@ -14,7 +14,7 @@ Nowadays almost every business is somewhat IT business. Last several years I was
     console.log (‘I am coming!’);
 
 ## Work experience:
-*   Logistics and planning specialist (6 years). I was responsible for stock planning process.
+*   Logistics and planning specialist (5 years). I was responsible for stock planning process.
 *   Manager of pick-up points net in FMCG company (3 years). I organized and managed business process and people.
 *   Project manager (7 years). I managed projects in FMCG companies. I have an experience to start a company branch in other country.
 
