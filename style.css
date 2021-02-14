@@ -1,0 +1,51 @@
+body {
+    font-family: Calibri;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(166, 216, 245);
+}
+
+.header-column{
+    width: 500px;
+    display: flex;
+}
+
+.pic{
+    margin-top: 7px;
+}
+
+.contact{
+    margin-left: 15px;
+
+}
+
+h1 {
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.content{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.column{
+    width: 500px;
+
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    padding-top: 0px;
+}
