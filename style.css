@@ -32,21 +32,21 @@ html {
 
 .contacts-li-mail{
   margin-top: 5px;
-  background: url(/icons/001-email.png) left top no-repeat;
+  background: url(./icons/001-email.png) left top no-repeat;
   padding-left: 20px;
   padding-bottom: 5px;
   font-size: 15px;
 }
 
 .contacts-ul-skype {
-  background: url(/icons/004-skype.png) left top no-repeat;
+  background: url(./icons/004-skype.png) left top no-repeat;
   padding-left: 20px;
   padding-bottom: 5px;
   font-size: 15px;
 }
 
 .contacts-ul-phone {
-  background: url(/icons/003-old-typical-phone.png) left top no-repeat;
+  background: url(./icons/003-old-typical-phone.png) left top no-repeat;
   padding-left: 20px;
   padding-bottom: 5px;
   font-size: 15px;
